@@ -1,0 +1,7 @@
+.paragraph{
+    width:60%;
+    border: 1px solid #eee;
+    box-shadow: 3px 2px #ccc;
+    text-align:center;
+    margin:16px auto;
+}
